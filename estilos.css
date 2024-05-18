@@ -8,13 +8,13 @@ body{
 form{
     background: #f4f3f5;
     margin: auto;
-    padding: 15px;
-    border-radius: 10px;
+    padding: 20px;
+    border-radius: 15px;
 }
 
 form.gupo{
     position: relative;
-    margin: 55px;
+    margin: 65px;
 }
 
 form.boton{
