@@ -1,2 +1,4 @@
 Voy a agregar los primeras lineas en este archivo txt
 Sigan agregando lienas y el ultimo que edite elimine unas para poder hacer el pull request
+Agrego este linea para que se una con los demas archivos
+Agregamos una mas por si algo
