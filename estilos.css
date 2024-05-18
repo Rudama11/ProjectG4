@@ -2,7 +2,7 @@ body{
     display: flex;
     height: 450px;
     justify-content: center;
-    background: linear-gradient(to right,#b4a51e,#1067ca);
+    background: linear-gradient(to right,#fb40df,#1067ca);
 }
 
 form{
@@ -17,6 +17,8 @@ form.gupo{
     margin: 55px;
 }
 
-form.boton{
+#boton{
     text-align: center;
+    background-color: #1067ca;
+
 }
